@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pathak</h1>
 <h3 align="center">A passionate full stack and game developer from India</h3>
 
-- 🔭 I’m currently working on **UX**
+- 🔭 I’m currently working on **Open <a href="https://github.com/awantika10/Desgen">Source Desgen Project</a>**
 
 - 🌱 I’m currently learning **UX using Adobe XD**
 
