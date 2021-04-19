@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vaibhavpathak999@gmail.com**
 
-- 📄 Know about my <a href="https://drive.google.com/file/d/1R8UubqKJxuzr396R2Zc2ZoyKxVXkwuEk/view?usp=sharing">experiences</a>
+- 📄 Know about my <a href="https://drive.google.com/file/d/1R8UubqKJxuzr396R2Zc2ZoyKxVXkwuEk/view?usp=sharing">**experiences**</a>
 
 - ⚡ Fun fact **Keep Smiling and Keep working!**
 
