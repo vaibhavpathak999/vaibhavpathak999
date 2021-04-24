@@ -7,11 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
+-- 👨‍💻 All of my projects are available at [https://vaibhavpathak999.github.io/MyPortfolio/](https://vaibhavpathak999.github.io/MyPortfolio/)
+
 - 💬 Ask me about **html, css, mongodb**
 
 - 📫 How to reach me **vaibhavpathak999@gmail.com**
 
-- 📄 Know about my <a href="https://drive.google.com/file/d/1R8UubqKJxuzr396R2Zc2ZoyKxVXkwuEk/view?usp=sharing">**experiences**</a>
+- 📄 Know about my <a href="https://drive.google.com/file/d/150lXYUGZeoSleIaRgOZ6SUtNq0FYVT6Y/view?usp=sharing">**experiences**</a>
 
 - ⚡ Fun fact **Keep Smiling and Keep working!**
 
