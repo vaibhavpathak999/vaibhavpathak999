@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 My portfolio is available <a href="https://vaibhavpathak999.github.io/MyPortfolio/">**here**</a>
+- 👨‍💻 My <a href="https://vaibhavpathak999.github.io/MyPortfolio/">portfolio</a> is **available here**
 
 - 💬 Ask me about **html, css, mongodb**
 
