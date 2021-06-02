@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Amazon Clone Project**
 
-- 🌱 I’m currently learning **Front End Devlopment using React**
+- 🌱 I’m currently learning **Front End Development using React**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
