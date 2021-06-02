@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pathak</h1>
 <h3 align="center">A passionate full stack and game developer from India</h3>
 
-- 🔭 I’m currently working on **UX**
+- 🔭 I’m currently working on **Amazon Clone Project**
 
-- 🌱 I’m currently learning **UX using Adobe XD**
+- 🌱 I’m currently learning **Front End Devlopment using React**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
