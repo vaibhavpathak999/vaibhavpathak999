@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pathak</h1>
 <h3 align="center">A passionate full stack and game developer from India</h3>
 
-- 🔭 I’m currently working on **Amazon Clone Project**
+- 🔭 I’m currently working on **CodeFry A Community Coding Platform**
 
 - 🌱 I’m currently learning **Front End Development using React**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 My <a href="https://vaibhavpathak999.github.io/MyPortfolio/">portfolio</a> is **available here**
 
-- 💬 Ask me about **html, css, mongodb**
+- 💬 Ask me about **html, css, MongoDB, NodeJS**
 
 - 📫 How to reach me **vaibhavpathak999@gmail.com**
 
