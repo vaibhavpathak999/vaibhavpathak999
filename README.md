@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pathak</h1>
-<h3 align="center">A passionate full stack and game developer from India</h3>
+<h3 align="center">A passionate UX designer & developer from India</h3>
 
 - 🔭 I’m currently working on **Something?? Name yet not decided**
 
@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **Keep Smiling and Keep working!**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vaibhavpathak999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vaibhavpathak999" height="30" width="40" /></a>
@@ -31,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavpathak999&show_icons=true&locale=en&layout=compact" alt="vaibhavpathak999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavpathak999&show_icons=true&locale=en" alt="vaibhavpathak999" /></p>
+
+-->
