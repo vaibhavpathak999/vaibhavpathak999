@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pathak</h1>
 <h3 align="center">A passionate full stack and game developer from India</h3>
 
-- 🔭 I’m currently working on **CodeFry A Community Coding Platform**
+- 🔭 I’m currently working on **Something?? Name yet not decided**
 
-- 🌱 I’m currently learning **Front End Development using React**
+- 🌱 I’m currently learning **UX Design & Golang**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **UX case studies**
 
 - 👨‍💻 My <a href="https://vaibhavpathak999.github.io/MyPortfolio/">portfolio</a> is **available here**
 
-- 💬 Ask me about **html, css, MongoDB, NodeJS**
+<!-- - 💬 Ask me about **??** --> 
 
 - 📫 How to reach me **vaibhavpathak999@gmail.com**
 
