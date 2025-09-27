@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pathak</h1>
-<h3 align="center">A passionate UX designer & developer from India</h3>
+<h3 align="center">A passionate UX software developer from India</h3>
 
-- 🔭 I’m currently working on **Something?? Name yet not decided**
+- 🔭 I’m currently working on **Something??**
 
-- 🌱 I’m currently learning **UX Design & Golang**
+- 🌱 I’m currently learning **How to build a great product**
 
-- 👯 I’m looking to collaborate on **UX case studies**
+- 👯 I’m looking to collaborate on **AI native products**
 
-- 👨‍💻 My <a href="https://vaibhavpathak999.github.io/MyPortfolio/">portfolio</a> is **available here**
-
-<!-- - 💬 Ask me about **??** --> 
+- 💬 Ask me about **AI agent, Agent orchestration, MCP servers and Agentic workflows** 
 
 - 📫 How to reach me **vaibhavpathak999@gmail.com**
 
